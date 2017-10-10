@@ -1,2 +1,2 @@
 # MyStringCharFunction
-Header file for MyStringCharFunc
+Customize String functions
